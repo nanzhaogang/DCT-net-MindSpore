@@ -1,0 +1,316 @@
+2024-10-21 17:38:48,039 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:49,049 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:49,299 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:49,547 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:49,751 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:49,967 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:50,144 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:50,328 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:50,516 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:50,710 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:50,897 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:51,097 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:51,281 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:51,463 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:51,640 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:51,826 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:52,025 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:52,217 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:52,408 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:52,610 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:52,790 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:52,987 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:53,214 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:53,857 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:54,041 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:54,231 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:54,435 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:54,617 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:54,820 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:55,033 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:55,228 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:55,435 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:55,639 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:55,827 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:56,016 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:56,235 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:56,433 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:56,626 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:56,826 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:57,024 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:57,210 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:57,399 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:57,605 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:57,835 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:58,044 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:58,273 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:58,508 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:58,700 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:58,893 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:59,089 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:59,280 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:59,471 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:59,729 - root - INFO - original image size:(480, 640)
+2024-10-21 17:38:59,920 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:00,115 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:00,319 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:00,543 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:00,741 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:00,934 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:29,307 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:30,275 - root - DEBUG - process image cost time:1.2988553047180176
+2024-10-21 17:39:30,285 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:30,504 - root - DEBUG - process image cost time:0.2282874584197998
+2024-10-21 17:39:30,510 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:30,716 - root - DEBUG - process image cost time:0.21212124824523926
+2024-10-21 17:39:30,725 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:30,957 - root - DEBUG - process image cost time:0.24004292488098145
+2024-10-21 17:39:30,966 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:31,172 - root - DEBUG - process image cost time:0.21399211883544922
+2024-10-21 17:39:31,182 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:31,355 - root - DEBUG - process image cost time:0.18317103385925293
+2024-10-21 17:39:31,363 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:31,535 - root - DEBUG - process image cost time:0.1800227165222168
+2024-10-21 17:39:31,543 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:31,734 - root - DEBUG - process image cost time:0.19874787330627441
+2024-10-21 17:39:31,742 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:31,936 - root - DEBUG - process image cost time:0.20170354843139648
+2024-10-21 17:39:31,944 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:32,128 - root - DEBUG - process image cost time:0.19236540794372559
+2024-10-21 17:39:32,135 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:32,315 - root - DEBUG - process image cost time:0.1874706745147705
+2024-10-21 17:39:32,323 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:32,514 - root - DEBUG - process image cost time:0.19737005233764648
+2024-10-21 17:39:32,524 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:32,714 - root - DEBUG - process image cost time:0.20045971870422363
+2024-10-21 17:39:32,723 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:32,905 - root - DEBUG - process image cost time:0.19074344635009766
+2024-10-21 17:39:32,912 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:33,090 - root - DEBUG - process image cost time:0.18523669242858887
+2024-10-21 17:39:33,098 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:33,291 - root - DEBUG - process image cost time:0.20099163055419922
+2024-10-21 17:39:33,299 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:33,489 - root - DEBUG - process image cost time:0.19759035110473633
+2024-10-21 17:39:33,496 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:33,684 - root - DEBUG - process image cost time:0.1950976848602295
+2024-10-21 17:39:33,694 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:33,877 - root - DEBUG - process image cost time:0.19344496726989746
+2024-10-21 17:39:33,884 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:34,072 - root - DEBUG - process image cost time:0.19422483444213867
+2024-10-21 17:39:34,080 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:34,273 - root - DEBUG - process image cost time:0.20180130004882812
+2024-10-21 17:39:34,281 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:34,471 - root - DEBUG - process image cost time:0.19765782356262207
+2024-10-21 17:39:34,480 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:34,670 - root - DEBUG - process image cost time:0.19797682762145996
+2024-10-21 17:39:34,678 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:34,877 - root - DEBUG - process image cost time:0.2065126895904541
+2024-10-21 17:39:34,888 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:35,087 - root - DEBUG - process image cost time:0.2103745937347412
+2024-10-21 17:39:35,095 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:35,320 - root - DEBUG - process image cost time:0.23286008834838867
+2024-10-21 17:39:35,328 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:35,517 - root - DEBUG - process image cost time:0.19729948043823242
+2024-10-21 17:39:35,527 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:35,717 - root - DEBUG - process image cost time:0.1997544765472412
+2024-10-21 17:39:35,724 - root - INFO - original image size:(480, 640)
+2024-10-21 17:39:35,924 - root - DEBUG - process image cost time:0.20675110816955566
+2024-10-21 17:39:35,934 - root - INFO - original image size:(480, 640)
+2024-10-21 17:55:30,661 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 17:55:30,709 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 17:56:09,879 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 17:56:09,929 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:00:34,900 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:00:34,950 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:01:43,922 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:01:43,972 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:05:22,246 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:05:22,295 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:06:04,584 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:06:04,638 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:06:27,473 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:06:27,521 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:07:19,884 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:07:19,934 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:07:37,740 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:07:37,792 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:08:44,857 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:08:44,907 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:09:19,311 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:09:19,364 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:10:24,549 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:no
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:10:24,598 - root - INFO - **************************************************proc local image**************************************************
+2024-10-21 18:10:41,973 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:no
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:10:42,024 - root - INFO - **************************************************proc local image**************************************************
+2024-10-21 18:10:59,445 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:no
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:10:59,494 - root - INFO - **************************************************proc local image**************************************************
+2024-10-21 18:10:59,505 - root - INFO - original image size:(663, 1031)
+2024-10-21 18:11:00,470 - root - INFO - process image cost time:0.9644131660461426, output image path:./images/output.png
+2024-10-21 18:13:57,635 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:no
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:13:57,684 - root - INFO - **************************************************proc local image**************************************************
+2024-10-21 18:13:57,696 - root - INFO - original image size:(663, 1031)
+2024-10-21 18:13:58,546 - root - INFO - process image cost time:0.8499844074249268, output image path:./images/output.png
+2024-10-21 18:14:34,848 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:no
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:14:34,900 - root - INFO - **************************************************proc local image**************************************************
+2024-10-21 18:14:34,912 - root - INFO - original image size:(663, 1031)
+2024-10-21 18:14:37,610 - root - INFO - process image cost time:2.697859525680542, output image path:./images/output.png
+2024-10-21 18:15:29,318 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:no
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:15:29,368 - root - INFO - **************************************************proc local image**************************************************
+2024-10-21 18:15:29,379 - root - INFO - original image size:(663, 1031)
+2024-10-21 18:15:31,988 - root - INFO - process image cost time:2.6088080406188965, output image path:./images/output.png
+2024-10-21 18:16:51,668 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:yes
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:16:51,715 - root - INFO - **************************************************use camera**************************************************
+2024-10-21 18:17:03,531 - root - INFO - run_mode:GRAPH_MODE
+device_type:CPU
+device_id:0
+ckpt_path:./ckpt/dct-net.ckpt
+camera:yes
+speed_first:no
+img_path:./images/gdg.png
+output_path:./images/output.png
+
+2024-10-21 18:17:03,581 - root - INFO - **************************************************use camera**************************************************
