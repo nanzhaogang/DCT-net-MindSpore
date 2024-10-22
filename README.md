@@ -2,6 +2,8 @@
 
 基于MindSpore框架实现DCT-Net风格迁移网络："Domain-Calibrated Translation for Portrait Stylization".
 
+[xcaq](https://github.com/nanzhaogang/DCT-net-MindSpore/blob/main/images/output.mp4)
+
 ## 介绍
 DCT-Net是一种新颖的图像风格迁移模型，专为少样本人像风格迁移设计。该模型结构在给定风格样本（100个）的情况下，能够生成高质量的风格迁移结果，具备合成高保真内容的先进能力，并且在处理复杂场景（如遮挡和配饰）时表现出强大的泛化能力。
 
