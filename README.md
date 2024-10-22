@@ -14,6 +14,7 @@ DCT-Net是一种新颖的图像风格迁移模型，专为少样本人像风格�
 - Python 3.9
 - opencv-python == 4.8.0.74
 - opencv-contrib-python == 4.8.0.74
+- moviepy == 1.0.3
 
 ## 使用方法
 
@@ -21,5 +22,6 @@ DCT-Net是一种新颖的图像风格迁移模型，专为少样本人像风格�
 # 运行项目
 python inference.py --device_type CPU --camera yes --speed_first no
 
-python inference.py --device_type CPU --camera no --speed_first no --img_path ./images/gdg.png --output_path ./images/output.png 
+python inference.py --device_type Ascend --camera no --speed_first no --input_path ./images/gdg.png --output_path ./images/output.png 
+python inference.py --device_type CPU --camera no --speed_first no --input_path ./images/input.mp4 --output_path ./images/output.mp4 
 ```
